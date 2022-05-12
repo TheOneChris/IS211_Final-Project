@@ -42,7 +42,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
-  <component name="RunManager" selected="Python.Book_Catalogue">
+  <component name="RunManager" selected="Python.Book_database">
     <configuration name="Book_Catalogue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IS211_Final-Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,8 +87,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Book_Catalogue" />
         <item itemvalue="Python.Book_database" />
+        <item itemvalue="Python.Book_Catalogue" />
       </list>
     </recent_temporary>
   </component>
